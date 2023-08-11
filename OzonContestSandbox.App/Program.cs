@@ -1,3 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-Console.WriteLine("Hello, World!");
+﻿//скопируйте сюда любое решение из метода Solve в файле ProblemA-ProblemJ
+Console.ReadKey();

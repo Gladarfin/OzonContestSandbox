@@ -22,4 +22,8 @@
         </PackageReference>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\OzonContestSandbox.App\OzonContestSandbox.App.csproj" />
+    </ItemGroup>
+
 </Project>
