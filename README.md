@@ -1,3 +1,5 @@
+<h3>Задания:</h3>
+
 <details>
   <summary>A. Сумматор (5 баллов)</summary>
 
