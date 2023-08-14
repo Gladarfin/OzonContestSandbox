@@ -1,3 +1,7 @@
+Полное решение всех задач из Песочницы:
+![Screenshot_5](https://github.com/Gladarfin/OzonContestSandbox/assets/59795136/5891ecca-d0ce-4746-b5db-60248d4b14a2)
+
+
 <h3>Задания:</h3>
 
 <details>
