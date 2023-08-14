@@ -2,8 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OzonContestSandbox.App", "OzonContestSandbox.App\OzonContestSandbox.App.csproj", "{1CD54A7E-1266-4F30-86EB-5936B350B303}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OzonContestSandbox.Tests", "OzonContestSandbox.Tests\OzonContestSandbox.Tests.csproj", "{8F447F59-E4FB-4C6C-A483-811C5AC9B8B2}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,9 +12,5 @@ Global
 		{1CD54A7E-1266-4F30-86EB-5936B350B303}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CD54A7E-1266-4F30-86EB-5936B350B303}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CD54A7E-1266-4F30-86EB-5936B350B303}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8F447F59-E4FB-4C6C-A483-811C5AC9B8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8F447F59-E4FB-4C6C-A483-811C5AC9B8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8F447F59-E4FB-4C6C-A483-811C5AC9B8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8F447F59-E4FB-4C6C-A483-811C5AC9B8B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
