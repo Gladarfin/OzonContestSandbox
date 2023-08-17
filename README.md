@@ -1,5 +1,6 @@
-Полное решение всех задач из Песочницы:
-![Screenshot_5](https://github.com/Gladarfin/OzonContestSandbox/assets/59795136/5891ecca-d0ce-4746-b5db-60248d4b14a2)
+Полное решение всех задач из Песочницы (08.2023 г.):
+![image](https://github.com/Gladarfin/OzonContestSandbox/assets/59795136/17feaef0-b048-4d93-a5cf-ae2a6e559c73)
+
 
 
 <h3>Задания:</h3>
